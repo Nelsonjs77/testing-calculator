@@ -53,3 +53,10 @@
     font-size: 20px;
     font-weight: 1000;
 }
+
+.square-button {
+    cursor: pointer;
+    color: rgb(205, 32, 133);
+    font-size: 20px;
+    font-weight: 1000;
+}
