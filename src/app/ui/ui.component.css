@@ -47,3 +47,9 @@
     font-weight: 1000;
 }
 
+.exponent-button {
+    cursor: pointer;
+    color: rgb(10, 20, 12);
+    font-size: 20px;
+    font-weight: 1000;
+}
